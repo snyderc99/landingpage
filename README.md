@@ -1,1 +1,2 @@
 # landingpage
+First try and creating a responsive webpage using HTML and CSS with Flexbox. This is a part of The Odin Project and they gave us a black template to go off of so we can create the website from scratch using knowledge we accumulated throughout the program. 
